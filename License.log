@@ -1,0 +1,40 @@
+    ======  ======
+    Time:2020/12/12 11:49:30
+    Title: Initiate log
+    Message: 
+    Time:2020/12/12 11:49:30
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:2020/12/12 11:49:30
+    Title: Requesting EVT
+    Message: EVTP
+    Time:2020/12/12 11:49:30
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:2020/12/12 11:49:33
+    Title: LICENSER
+    Message: TRL MODE
+    Time:2020/12/12 11:49:33
+    Title: LICENSER
+    Message: DS LEFT10
+    Time:2020/12/12 11:49:33
+    Title: LICENSER
+    Message: DT MARK PASSED10.00:00:00
+    Time:2020/12/12 11:51:27
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:2020/12/12 11:51:27
+    Title: Requesting Validation
+    Message: ILMValidate True Trial
+    Entering constructor for: Telerik.CommonPackage.VSPackage
+    Entering Initialize() of: Telerik.CommonPackage.VSPackage
+    Entering constructor for: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering Initialize() of: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering constructor for: Telerik.Web.UI.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.Web.UI.VSPackage.VSPackage
+    Entering constructor for: Syncfusion.Web.Extension.SyncfusionPackage
+    Entering Initialize() of: Syncfusion.Web.Extension.SyncfusionPackage
+    Entering constructor for: SteveCadwallader.CodeMaid.CodeMaidPackage
+    TS:Registry store: user registry root "HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\16.0_1e7a8dae"
+    TS:Registry store: config registry root "HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\16.0_1e7a8dae_Config"
+    devenv.exe Warning: 0 : Returning NoOpUIThread instance from GetUIThread
