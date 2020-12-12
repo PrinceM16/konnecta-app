@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "www.konnectaapp.co.za", "www.konnectaapp.co.za.csproj", "{4ED26313-B3E7-432F-981F-1FCB721202FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED26313-B3E7-432F-981F-1FCB721202FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED26313-B3E7-432F-981F-1FCB721202FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED26313-B3E7-432F-981F-1FCB721202FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED26313-B3E7-432F-981F-1FCB721202FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C120EB6-B080-4626-A143-94A2C637A85C}
+	EndGlobalSection
+EndGlobal
